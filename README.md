@@ -69,7 +69,7 @@ The following tools were used in the construction of the project:
 ### Create a User
 
 1. **Method:** POST
-2. **URL:** <https://todolist-rocketseat-iq26.onrender.com/users/>
+2. **URL:** <https://todolist-springboot-2sb6.onrender.com/users/>
 3. **Request Body:** JSON format:
 
 ```json
@@ -83,7 +83,7 @@ The following tools were used in the construction of the project:
 ### Create a Task
 
 1. **Method:** POST
-2. **URL:** <https://todolist-rocketseat-iq26.onrender.com/tasks/>
+2. **URL:** <https://todolist-springboot-2sb6.onrender.com/tasks/>
 3. **Request Body:** JSON format:
 
 ```json
@@ -99,12 +99,12 @@ The following tools were used in the construction of the project:
 ### View Created Tasks
 
 1. **Method:** GET
-2. **URL:** <https://todolist-rocketseat-iq26.onrender.com/tasks/>
+2. **URL:** <https://todolist-springboot-2sb6.onrender.com/tasks/>
 
 ### Update a Task
 
 1. **Method:** PUT
-2. **URL:** <https://todolist-rocketseat-iq26.onrender.com/tasks/id> (Replace id with the task's ID)
+2. **URL:** <https://todolist-springboot-2sb6.onrender.co/id> (Replace id with the task's ID)
 3. **Request Body:** JSON format:
 
 ```json
