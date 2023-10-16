@@ -115,7 +115,7 @@ The following tools were used in the construction of the project:
 
 Be sure to include Basic Authentication in all requests by providing the username and password of the user created during registration. This is essential to ensure access to view, create and update tasks. In addition, check that the requests are configured correctly and that you have the necessary permissions to access the URL provided.
 
-## Getting Started
+## 👨🏻‍💻 Getting Started
 
 1 - Clone the git clone repository <https://github.com/DsBastos/todolist-Java-Spring_Boot.git>
 
@@ -127,7 +127,7 @@ Be sure to include Basic Authentication in all requests by providing the usernam
 
 5 - Use an HTTP request application to run the tests
 
-## 👨🏻‍💻 Author
+## 🙂 Author
 
 <a href="https://www.linkedin.com/in/daniel-bastos98/">
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/29290002?s=400&u=30a3e2a8c4f61097a9d2366964baefc176a60b89&v=4" width="100px;" alt="Daniel Bastos "/>
