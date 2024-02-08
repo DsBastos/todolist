@@ -32,10 +32,6 @@ How to test? •
 Author
 </p>
 
-<h1 align="center">
-    <img alt="move.it" title="move.it" src="src\main\resources\static\Wallpaper.png" />
-</h1>
-
 ## 💻 About
 
 Backend of a To-Do list in Spring Boot (Java web framework).
